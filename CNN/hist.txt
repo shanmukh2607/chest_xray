@@ -1,0 +1,100 @@
+Epoch 1/100
+164/164 [==============================] - ETA: 0s - loss: 0.4246 - customIoU: 0.3599 - kullback_leibler_divergence: 0.0920
+Epoch 1: val_loss improved from inf to 0.30511, saving model to /content/drive/MyDrive/Miniproject/chest_xray/CNN/weights/weights_best.hdf5
+164/164 [==============================] - 242s 1s/step - loss: 0.4246 - customIoU: 0.3599 - kullback_leibler_divergence: 0.0920 - val_loss: 0.3051 - val_customIoU: 0.4126 - val_kullback_leibler_divergence: 0.0489
+Epoch 2/100
+164/164 [==============================] - ETA: 0s - loss: 0.3106 - customIoU: 0.4037 - kullback_leibler_divergence: 0.0278
+Epoch 2: val_loss improved from 0.30511 to 0.26071, saving model to /content/drive/MyDrive/Miniproject/chest_xray/CNN/weights/weights_best.hdf5
+164/164 [==============================] - 122s 742ms/step - loss: 0.3106 - customIoU: 0.4037 - kullback_leibler_divergence: 0.0278 - val_loss: 0.2607 - val_customIoU: 0.4276 - val_kullback_leibler_divergence: 0.0222
+Epoch 3/100
+164/164 [==============================] - ETA: 0s - loss: 0.2798 - customIoU: 0.4055 - kullback_leibler_divergence: 0.0314
+Epoch 3: val_loss improved from 0.26071 to 0.24640, saving model to /content/drive/MyDrive/Miniproject/chest_xray/CNN/weights/weights_best.hdf5
+164/164 [==============================] - 124s 758ms/step - loss: 0.2798 - customIoU: 0.4055 - kullback_leibler_divergence: 0.0314 - val_loss: 0.2464 - val_customIoU: 0.4295 - val_kullback_leibler_divergence: 0.0203
+Epoch 4/100
+164/164 [==============================] - ETA: 0s - loss: 0.2663 - customIoU: 0.4068 - kullback_leibler_divergence: 0.0305
+Epoch 4: val_loss improved from 0.24640 to 0.23535, saving model to /content/drive/MyDrive/Miniproject/chest_xray/CNN/weights/weights_best.hdf5
+164/164 [==============================] - 125s 760ms/step - loss: 0.2663 - customIoU: 0.4068 - kullback_leibler_divergence: 0.0305 - val_loss: 0.2353 - val_customIoU: 0.4291 - val_kullback_leibler_divergence: 0.0272
+Epoch 5/100
+164/164 [==============================] - ETA: 0s - loss: 0.2570 - customIoU: 0.4075 - kullback_leibler_divergence: 0.0301
+Epoch 5: val_loss improved from 0.23535 to 0.22799, saving model to /content/drive/MyDrive/Miniproject/chest_xray/CNN/weights/weights_best.hdf5
+164/164 [==============================] - 124s 757ms/step - loss: 0.2570 - customIoU: 0.4075 - kullback_leibler_divergence: 0.0301 - val_loss: 0.2280 - val_customIoU: 0.4284 - val_kullback_leibler_divergence: 0.0290
+Epoch 6/100
+164/164 [==============================] - ETA: 0s - loss: 0.2499 - customIoU: 0.4080 - kullback_leibler_divergence: 0.0300
+Epoch 6: val_loss improved from 0.22799 to 0.22273, saving model to /content/drive/MyDrive/Miniproject/chest_xray/CNN/weights/weights_best.hdf5
+164/164 [==============================] - 124s 756ms/step - loss: 0.2499 - customIoU: 0.4080 - kullback_leibler_divergence: 0.0300 - val_loss: 0.2227 - val_customIoU: 0.4285 - val_kullback_leibler_divergence: 0.0287
+Epoch 7/100
+164/164 [==============================] - ETA: 0s - loss: 0.2445 - customIoU: 0.4083 - kullback_leibler_divergence: 0.0301
+Epoch 7: val_loss improved from 0.22273 to 0.21870, saving model to /content/drive/MyDrive/Miniproject/chest_xray/CNN/weights/weights_best.hdf5
+164/164 [==============================] - 125s 759ms/step - loss: 0.2445 - customIoU: 0.4083 - kullback_leibler_divergence: 0.0301 - val_loss: 0.2187 - val_customIoU: 0.4288 - val_kullback_leibler_divergence: 0.0278
+Epoch 8/100
+164/164 [==============================] - ETA: 0s - loss: 0.2400 - customIoU: 0.4085 - kullback_leibler_divergence: 0.0302
+Epoch 8: val_loss improved from 0.21870 to 0.21601, saving model to /content/drive/MyDrive/Miniproject/chest_xray/CNN/weights/weights_best.hdf5
+164/164 [==============================] - 124s 757ms/step - loss: 0.2400 - customIoU: 0.4085 - kullback_leibler_divergence: 0.0302 - val_loss: 0.2160 - val_customIoU: 0.4297 - val_kullback_leibler_divergence: 0.0251
+Epoch 9/100
+164/164 [==============================] - ETA: 0s - loss: 0.2361 - customIoU: 0.4088 - kullback_leibler_divergence: 0.0301
+Epoch 9: val_loss improved from 0.21601 to 0.21368, saving model to /content/drive/MyDrive/Miniproject/chest_xray/CNN/weights/weights_best.hdf5
+164/164 [==============================] - 124s 755ms/step - loss: 0.2361 - customIoU: 0.4088 - kullback_leibler_divergence: 0.0301 - val_loss: 0.2137 - val_customIoU: 0.4292 - val_kullback_leibler_divergence: 0.0261
+Epoch 10/100
+164/164 [==============================] - ETA: 0s - loss: 0.2331 - customIoU: 0.4090 - kullback_leibler_divergence: 0.0301
+Epoch 10: val_loss improved from 0.21368 to 0.21155, saving model to /content/drive/MyDrive/Miniproject/chest_xray/CNN/weights/weights_best.hdf5
+164/164 [==============================] - 124s 759ms/step - loss: 0.2331 - customIoU: 0.4090 - kullback_leibler_divergence: 0.0301 - val_loss: 0.2115 - val_customIoU: 0.4293 - val_kullback_leibler_divergence: 0.0282
+Epoch 11/100
+164/164 [==============================] - ETA: 0s - loss: 0.2306 - customIoU: 0.4093 - kullback_leibler_divergence: 0.0300
+Epoch 11: val_loss improved from 0.21155 to 0.20902, saving model to /content/drive/MyDrive/Miniproject/chest_xray/CNN/weights/weights_best.hdf5
+164/164 [==============================] - 124s 759ms/step - loss: 0.2306 - customIoU: 0.4093 - kullback_leibler_divergence: 0.0300 - val_loss: 0.2090 - val_customIoU: 0.4295 - val_kullback_leibler_divergence: 0.0298
+Epoch 12/100
+164/164 [==============================] - ETA: 0s - loss: 0.2286 - customIoU: 0.4094 - kullback_leibler_divergence: 0.0301
+Epoch 12: val_loss improved from 0.20902 to 0.20773, saving model to /content/drive/MyDrive/Miniproject/chest_xray/CNN/weights/weights_best.hdf5
+164/164 [==============================] - 124s 759ms/step - loss: 0.2286 - customIoU: 0.4094 - kullback_leibler_divergence: 0.0301 - val_loss: 0.2077 - val_customIoU: 0.4288 - val_kullback_leibler_divergence: 0.0354
+Epoch 13/100
+164/164 [==============================] - ETA: 0s - loss: 0.2263 - customIoU: 0.4096 - kullback_leibler_divergence: 0.0300
+Epoch 13: val_loss improved from 0.20773 to 0.20651, saving model to /content/drive/MyDrive/Miniproject/chest_xray/CNN/weights/weights_best.hdf5
+164/164 [==============================] - 124s 759ms/step - loss: 0.2263 - customIoU: 0.4096 - kullback_leibler_divergence: 0.0300 - val_loss: 0.2065 - val_customIoU: 0.4285 - val_kullback_leibler_divergence: 0.0374
+Epoch 14/100
+164/164 [==============================] - ETA: 0s - loss: 0.2243 - customIoU: 0.4097 - kullback_leibler_divergence: 0.0302
+Epoch 14: val_loss improved from 0.20651 to 0.20405, saving model to /content/drive/MyDrive/Miniproject/chest_xray/CNN/weights/weights_best.hdf5
+164/164 [==============================] - 124s 757ms/step - loss: 0.2243 - customIoU: 0.4097 - kullback_leibler_divergence: 0.0302 - val_loss: 0.2041 - val_customIoU: 0.4288 - val_kullback_leibler_divergence: 0.0354
+Epoch 15/100
+164/164 [==============================] - ETA: 0s - loss: 0.2225 - customIoU: 0.4098 - kullback_leibler_divergence: 0.0303
+Epoch 15: val_loss improved from 0.20405 to 0.20267, saving model to /content/drive/MyDrive/Miniproject/chest_xray/CNN/weights/weights_best.hdf5
+164/164 [==============================] - 124s 759ms/step - loss: 0.2225 - customIoU: 0.4098 - kullback_leibler_divergence: 0.0303 - val_loss: 0.2027 - val_customIoU: 0.4292 - val_kullback_leibler_divergence: 0.0338
+Epoch 16/100
+164/164 [==============================] - ETA: 0s - loss: 0.2209 - customIoU: 0.4100 - kullback_leibler_divergence: 0.0305
+Epoch 16: val_loss improved from 0.20267 to 0.20171, saving model to /content/drive/MyDrive/Miniproject/chest_xray/CNN/weights/weights_best.hdf5
+164/164 [==============================] - 124s 758ms/step - loss: 0.2209 - customIoU: 0.4100 - kullback_leibler_divergence: 0.0305 - val_loss: 0.2017 - val_customIoU: 0.4288 - val_kullback_leibler_divergence: 0.0359
+Epoch 17/100
+164/164 [==============================] - ETA: 0s - loss: 0.2195 - customIoU: 0.4100 - kullback_leibler_divergence: 0.0307
+Epoch 17: val_loss improved from 0.20171 to 0.20137, saving model to /content/drive/MyDrive/Miniproject/chest_xray/CNN/weights/weights_best.hdf5
+164/164 [==============================] - 124s 757ms/step - loss: 0.2195 - customIoU: 0.4100 - kullback_leibler_divergence: 0.0307 - val_loss: 0.2014 - val_customIoU: 0.4288 - val_kullback_leibler_divergence: 0.0368
+Epoch 18/100
+164/164 [==============================] - ETA: 0s - loss: 0.2185 - customIoU: 0.4101 - kullback_leibler_divergence: 0.0309
+Epoch 18: val_loss improved from 0.20137 to 0.20063, saving model to /content/drive/MyDrive/Miniproject/chest_xray/CNN/weights/weights_best.hdf5
+164/164 [==============================] - 124s 755ms/step - loss: 0.2185 - customIoU: 0.4101 - kullback_leibler_divergence: 0.0309 - val_loss: 0.2006 - val_customIoU: 0.4293 - val_kullback_leibler_divergence: 0.0351
+Epoch 19/100
+164/164 [==============================] - ETA: 0s - loss: 0.2183 - customIoU: 0.4101 - kullback_leibler_divergence: 0.0309
+Epoch 19: val_loss did not improve from 0.20063
+164/164 [==============================] - 123s 752ms/step - loss: 0.2183 - customIoU: 0.4101 - kullback_leibler_divergence: 0.0309 - val_loss: 0.2013 - val_customIoU: 0.4331 - val_kullback_leibler_divergence: 0.0239
+Epoch 20/100
+164/164 [==============================] - ETA: 0s - loss: 0.2179 - customIoU: 0.4102 - kullback_leibler_divergence: 0.0307
+Epoch 20: val_loss improved from 0.20063 to 0.19970, saving model to /content/drive/MyDrive/Miniproject/chest_xray/CNN/weights/weights_best.hdf5
+164/164 [==============================] - 124s 754ms/step - loss: 0.2179 - customIoU: 0.4102 - kullback_leibler_divergence: 0.0307 - val_loss: 0.1997 - val_customIoU: 0.4313 - val_kullback_leibler_divergence: 0.0286
+Epoch 21/100
+164/164 [==============================] - ETA: 0s - loss: 0.2173 - customIoU: 0.4101 - kullback_leibler_divergence: 0.0307
+Epoch 21: val_loss did not improve from 0.19970
+164/164 [==============================] - 124s 755ms/step - loss: 0.2173 - customIoU: 0.4101 - kullback_leibler_divergence: 0.0307 - val_loss: 0.2019 - val_customIoU: 0.4274 - val_kullback_leibler_divergence: 0.0399
+Epoch 22/100
+164/164 [==============================] - ETA: 0s - loss: 0.2161 - customIoU: 0.4102 - kullback_leibler_divergence: 0.0308
+Epoch 22: val_loss did not improve from 0.19970
+164/164 [==============================] - 123s 752ms/step - loss: 0.2161 - customIoU: 0.4102 - kullback_leibler_divergence: 0.0308 - val_loss: 0.2005 - val_customIoU: 0.4264 - val_kullback_leibler_divergence: 0.0425
+Epoch 23/100
+164/164 [==============================] - ETA: 0s - loss: 0.2153 - customIoU: 0.4103 - kullback_leibler_divergence: 0.0307
+Epoch 23: val_loss did not improve from 0.19970
+164/164 [==============================] - 123s 751ms/step - loss: 0.2153 - customIoU: 0.4103 - kullback_leibler_divergence: 0.0307 - val_loss: 0.2054 - val_customIoU: 0.4259 - val_kullback_leibler_divergence: 0.0543
+Epoch 24/100
+164/164 [==============================] - ETA: 0s - loss: 0.2144 - customIoU: 0.4105 - kullback_leibler_divergence: 0.0305
+Epoch 24: val_loss did not improve from 0.19970
+164/164 [==============================] - 123s 751ms/step - loss: 0.2144 - customIoU: 0.4105 - kullback_leibler_divergence: 0.0305 - val_loss: 0.2013 - val_customIoU: 0.4261 - val_kullback_leibler_divergence: 0.0518
+Epoch 25/100
+164/164 [==============================] - ETA: 0s - loss: 0.2130 - customIoU: 0.4106 - kullback_leibler_divergence: 0.0306
+Epoch 25: val_loss did not improve from 0.19970
+164/164 [==============================] - 124s 754ms/step - loss: 0.2130 - customIoU: 0.4106 - kullback_leibler_divergence: 0.0306 - val_loss: 0.2000 - val_customIoU: 0.4266 - val_kullback_leibler_divergence: 0.0493
