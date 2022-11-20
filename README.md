@@ -14,11 +14,12 @@ compression.
 ## Repository structure
 This repository contains the code of four autoencoder models, weights and results. <br>
 
-NN : Folder for ANN based Autoencoder trained on MSE loss
-CNN : Folder for CNN based Autoencoder trained on MS_SSIM based loss
-CNN2 : Folder for CNN based Autoencoder with increased latent space dim and trained on custom loss 
-CNN3: Dual Stage Autoencoder
-HiFiC : Pre-Trained GAN model compression bit-rate
+project_report.pdf contains a detailed report of the problems addressed and the implementation
+NN : Folder for ANN based Autoencoder trained on MSE loss <br>
+CNN : Folder for CNN based Autoencoder trained on MS_SSIM based loss <br>
+CNN2 : Folder for CNN based Autoencoder with increased latent space dim and trained on custom loss <br>
+CNN3: Dual Stage Autoencoder <br>
+HiFiC : Pre-Trained GAN model compression bit-rate <br>
 
 Dataset : Kaggle Chest X-ray Dataset
 
